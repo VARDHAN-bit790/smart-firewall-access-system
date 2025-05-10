@@ -1,0 +1,7 @@
+deepface
+resemblyzer
+opencv-python
+sounddevice
+scipy
+numpy
+Pillow
